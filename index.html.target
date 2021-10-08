@@ -69,9 +69,10 @@
       </div>
     </section>
 
-    <footer class="u-align-center u-clearfix u-custom-color-3 u-footer u-footer" id="sec-eeb5"><div class="u-clearfix u-sheet u-sheet-1">
-        <p class="u-small-text u-text u-text-variant u-text-1">&nbsp;</p>
+    <section class="u-clearfix u-custom-color-3 u-section-2" id="sec-7cad">
+      <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
         <img class="u-align-center u-image u-image-default u-image-1" src="./Home_files/ScreenShot2021-10-05at8.45.05PM.png" alt="" data-image-width="482" data-image-height="150">
-      </div></footer>
+      </div>
+    </section>
 
 </body></html>
